@@ -1,2 +1,4 @@
 # Praktikum_Pengkom_ITB
-Semua tugas yang diberikan untuk praktikum pengenalan komputasi ITB, berisi tugas modul dan tugas pendahuluan
+REPOST INI BERISI SEMUA TUGAS PRAKTIKUM PENGENALAN KOMPUTASI ITB
+
+    berisi tugas modul dan tugas pendahuluan
