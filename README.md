@@ -1,4 +1,2 @@
-# Praktikum_Pengkom_ITB
-REPOST INI BERISI SEMUA TUGAS PRAKTIKUM PENGENALAN KOMPUTASI ITB
-
-    berisi tugas modul dan tugas pendahuluan
+# Tugas Besar Penganalan Komputasi 2022
+Berisi Tugas Besar Pengenalan Komputasi Tahun 2022
